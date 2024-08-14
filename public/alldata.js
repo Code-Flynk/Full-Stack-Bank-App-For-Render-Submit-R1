@@ -25,7 +25,7 @@ import Card from "./card";
 
 
             
-    }, []);
+    }, [[{"_id":"66b8e1bb43a2203ce1c5e2a9","name":"ddd","email":"ddd","password":"ddd","balance":0},{"_id":"66b8e589182c4481c82baef1","name":"sarah","email":"sarah@hotmail.com","password":"secret3","balance":0},{"_id":"66b8f4a160094f552993e71d","name":"tester","email":"TM@hotmail.com","password":"secret4","balance":0},{"_id":"66b8f70d60094f552993e71e","name":"Jamey","email":"J@MIT.edu","password":"qweqweqwe","balance":-6},{"_id":"66b8f72f60094f552993e71f","name":"wwww","email":"www","password":"wwwwwwwwwwww","balance":0},{"_id":"66b8fdfc60094f552993e720","name":"w","email":"w","password":"w","balance":0},{"_id":"66babc238d36762fe4408773","name":"d","email":"d","password":"d","balance":0}]]);
 
   
 
